@@ -18,7 +18,7 @@ FusionRAFT requires our LieTorch package to be installed. Please see https://git
 * Our datasets
 ## qualitative results 
 * FlyingThings3D
-![图片描述](images/block diagram.png)
+![图片描述](images/block_diagram.png)
 * KITTI
 * Our datasets
 ## Citing our work
