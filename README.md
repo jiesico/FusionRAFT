@@ -16,14 +16,14 @@ This paper presents an investigation into the estimation of optical and scene fl
 ## Citing our work
 >@article{zhou2023FusionRAFT,
 
->  title={{Attentive Multimodal Fusion for Optical and Scene Flow}},
+  title={{Attentive Multimodal Fusion for Optical and Scene Flow}},
 
->  author={Y. Zhou and G. Mei and Y. Wang and F. Poiesi and Y. Wan},
+  author={Y. Zhou and G. Mei and Y. Wang and F. Poiesi and Y. Wan},
 
->  journal={IEEE ROBOTICS AND AUTOMATION LETTERS},
+  journal={IEEE ROBOTICS AND AUTOMATION LETTERS},
 
->  year={2023}
->}
+  year={2023}
+}
 
 ## Acknowledgements
 This work was supported by the China government project and by the PNRR project FAIR - Future AI Research, under the NRRP MUR program funded by the NextGenerationEU.
