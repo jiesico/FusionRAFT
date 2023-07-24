@@ -8,7 +8,7 @@ This paper presents an investigation into the estimation of optical and scene fl
 * torchvision=0.7.0
 * cudatoolkit=10.1
 ## Installation
-
+FusionRAFT requires our LieTorch package to be installed. Please see https://github.com/princeton-vl/lietorch for instructions (requires PyTorch >= 1.6). All Cuda kernels required for FusionRAFT will automatically be installed with LieTorch.
 ## Download dataset
 * FlyingThings3D
 * KITTI
