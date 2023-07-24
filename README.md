@@ -23,7 +23,7 @@ FusionRAFT requires our LieTorch package to be installed. Please see https://git
 * KITTI
 ![](images/kitti.png)
 * Our datasets
-![](images/our dataset.png)
+![](images/our_dataset.png)
 ## Citing our work
 <blockquote>
 @article{zhou2023FusionRAFT,
