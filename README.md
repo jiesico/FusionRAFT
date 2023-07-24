@@ -14,6 +14,7 @@ This paper presents an investigation into the estimation of optical and scene fl
 * KITTI
 * Our datasets
 ## Citing our work
+<blockquote>
 >@article{zhou2023FusionRAFT,
 
   title={{Attentive Multimodal Fusion for Optical and Scene Flow}},
@@ -24,6 +25,7 @@ This paper presents an investigation into the estimation of optical and scene fl
 
   year={2023}
 }
+</blockquote>
 
 ## Acknowledgements
 This work was supported by the China government project and by the PNRR project FAIR - Future AI Research, under the NRRP MUR program funded by the NextGenerationEU.
