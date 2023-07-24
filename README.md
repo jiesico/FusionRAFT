@@ -15,7 +15,7 @@ This paper presents an investigation into the estimation of optical and scene fl
 * Our datasets
 ## Citing our work
 <blockquote>
->@article{zhou2023FusionRAFT,
+@article{zhou2023FusionRAFT,
 
   title={{Attentive Multimodal Fusion for Optical and Scene Flow}},
 
