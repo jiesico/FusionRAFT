@@ -20,3 +20,4 @@ This paper presents an investigation into the estimation of optical and scene fl
 }
 
 ## Acknowledgements
+This work was supported by the China government project and by the PNRR project FAIR - Future AI Research, under the NRRP MUR program funded by the NextGenerationEU.
