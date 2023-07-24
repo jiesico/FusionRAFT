@@ -10,7 +10,9 @@ This paper presents an investigation into the estimation of optical and scene fl
 ## Installation
 
 ## Download dataset
-
+* FlyingThings3D
+* KITTI
+* Our datasets
 ## Citing our work
 @article{zhou2023FusionRAFT,
   title={{Attentive Multimodal Fusion for Optical and Scene Flow}},
