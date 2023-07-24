@@ -17,6 +17,7 @@ FusionRAFT requires our LieTorch package to be installed. Please see https://git
 * FlyingThings3D
 * KITTI
 * Our datasets
+
   We recorded a new indoor RGBD dataset using a Realsense D415 camera. This dataset features three lighting setups: Bright, Dimmed, and Dark. Each scenario is further divided into two splits: fast and slow motion. Each sequence contains two or more moving individuals and objects.
 ## Qualitative results 
 * FlyingThings3D
